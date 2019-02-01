@@ -1,1 +1,6 @@
-A very basic web scraper, using cheeriojs, and request.
+##WEBSCRAPPER
+A basic web scrapper, using Cheeriojs and Request
+
+###What I learned
+Using nodejs, to scrap webpates and read contents.
+
